@@ -1,5 +1,7 @@
 Getting started
 ===============
 
-This is where you describe things.
+Welcome to the repository dedicated to: {{ cookiecutter.description }}
+
+This is where you describe introductory things.
 
